@@ -3,7 +3,7 @@
     <v-app-bar-title>
       <v-icon icon="mdi-circle-slice-6" />
 
-      Essentials Preset
+      vue.js class
     </v-app-bar-title>
   </v-app-bar>
 </template>
